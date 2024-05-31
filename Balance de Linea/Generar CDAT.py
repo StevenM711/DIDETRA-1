@@ -2,6 +2,7 @@ from collections import defaultdict, deque
 import numpy as np 
 
 # Dependencias para cada tarea
+# Primero esta la tarea, luego una lista con las dependencias
 tasks = [
     (1, []),
     (2, []),
