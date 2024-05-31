@@ -1,2 +1,2 @@
 # DIDETRA-1
-Repositorio de códigos relacionados con Diseño del Trabajo.
+Repositorio con programas relacionados a Diseño del Trabajo.
